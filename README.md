@@ -1,2 +1,1 @@
-# .github
-Descripción y README
+Repositiorio del Departamento de Ingeniería Eléctrica de la Universidad de Antioquia
